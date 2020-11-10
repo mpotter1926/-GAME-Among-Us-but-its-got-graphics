@@ -6,4 +6,4 @@ def main():
   while True:
     bob.right(forth)
     bob.forward(forth)
-    forth += 1
+    forth += 2
